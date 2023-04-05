@@ -2,7 +2,7 @@
 ## Tabla Contenidos
 1. [Planos Generales loteo](#planos-generales)
 2. [Documentos Servidumbres](#servidumbres)
-3. [Documentos APR](#APR)
+3. [Documentos APR](#apr)
 4. [Otros documentos](#otros)
 ***
 ## Planos Generales
@@ -29,3 +29,8 @@ Corresponden a los documentos presentados en la primera reunión presencial y lo
 Corresponden a los documentos presentados en la primera reunión presencial
 * [:page_facing_up: Cesión terreno APR](https://drive.google.com/file/d/1fS8ixSxTAEqRF94Ps1jDXj5kTynAF64O/view): cesion terreno APR.pdf 
 * [:page_facing_up: Proyecto Municipal](https://drive.google.com/file/d/1Cc-N84LyIVh4KRc4khPlAq3asrTJQINJ/view): proyecto municipal APR.pdf
+
+## Otros
+
+Documentos varios que son útiles para todos
+* [👥 Listado de copropietarios](https://docs.google.com/spreadsheets/d/11XIFVLWYnZftM0iiE_391C5fbqLyi3gnrAk_nna2yNc/edit): Datos propietarios Chupallar
